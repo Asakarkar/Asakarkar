@@ -6,18 +6,27 @@
 </p>
 
 ---
-
 ## 🚀 About Me  
 
-<p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="380" />
-</p>
+<table>
+<tr>
+<td>
 
 - 🌱 Currently learning **DSA | Web Dev | AI/ML**  
 - 💻 Crafting projects that sharpen my development skills  
 - 🧠 Exploring **Machine Learning** and **Backend Engineering**  
 - 🎯 Goal: Become an **industry-ready developer with strong fundamentals**  
 - ⚡ Fun fact: I break code… and then fix it with style 😎  
+
+</td>
+<td>
+  
+<img src="https://media.giphy.com/media/LMcB8XospGZO8UQq87/giphy.gif" width="330" />
+
+</td>
+</tr>
+</table>
+ 
 
 ---
 
@@ -50,15 +59,16 @@ You can add thumbnails later if you want 👀
 ---
 
 ## 🤝 Connect With Me  
-<p align="center">
+
+<p align="left">
   <a href="https://www.linkedin.com/in/aditya-sakarkar-a95b1b317">
-    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img src="https://skillicons.dev/icons?i=linkedin" width="44" />
   </a>
   <a href="https://twitter.com/yourprofile">
-    <img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white" />
+    <img src="https://skillicons.dev/icons?i=twitter" width="44" />
   </a>
   <a href="https://github.com/Asakarkar">
-    <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white" />
+    <img src="https://skillicons.dev/icons?i=github" width="44" />
   </a>
 </p>
 
