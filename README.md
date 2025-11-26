@@ -49,10 +49,10 @@
 
 ## 🌟 Top Projects  
 ### 🔥 Highlight Projects  
-- 🧠 **AI Plant Species Classifier** – ML + CV  
-- 📊 **DAA Algorithms Visualizer** – sorting/pathfinding animations  
-- 🎮 **JS Mini Games Pack** – Snake, T-Rex, Tic-Tac-Toe  
-- 📚 **DSA Solutions Repo** – topic-wise structured  
+- 🧠  **(WORKING)**
+- 📊  **(WORKING)**
+- 🎮  **(WORKING)**
+- 📚  **(WORKING)**
 
 You can add thumbnails later if you want 👀
 
