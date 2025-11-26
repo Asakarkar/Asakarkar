@@ -54,8 +54,6 @@
 - 🎮  **(WORKING)**
 - 📚  **(WORKING)**
 
-You can add thumbnails later if you want 👀
-
 ---
 
 ## 🤝 Connect With Me  
