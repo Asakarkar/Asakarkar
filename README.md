@@ -16,7 +16,7 @@
 - Crafting projects that sharpen my development skills  
 - Exploring **Machine Learning** and **Backend Engineering**  
 - Goal: Become an **industry-ready developer with strong fundamentals**  
-- Fun fact: I break code… and then fix it with style 😎  
+- Fun fact: I break code… and then fix it with style  
 
 </td>
 <td>
@@ -37,9 +37,7 @@
 
 ---
 
-## 📈 GitHub Highlights  
-
-### GitHub Stats
+## GitHub Stats  
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Asakarkar&show_icons=true&theme=tokyonight" height="160" />
   <img src="https://github-readme-streak-stats.herokuapp.com?user=Asakarkar&theme=tokyonight" height="160" />
